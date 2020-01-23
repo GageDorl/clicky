@@ -1,0 +1,62 @@
+export default [
+    {
+    "name":"Steve",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f3/Steve.png",
+    "beenClicked":false
+},
+{
+    "name":"Zombie",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/c/c3/Zombie.png/163px-Zombie.png?version=fb04ab364f9c785992991f5a2a9c14bc",
+    "beenClicked":false
+},
+{
+    "name":"Skeleton",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/2/23/Skeleton.png",
+    "beenClicked":false
+},
+{
+    "name":"Creeper",
+    "image":"https://vignette.wikia.nocookie.net/minecraft/images/e/ee/CreeperImage.png/revision/latest/top-crop/width/360/height/450?cb=20191126080723",
+    "beenClicked":false
+},
+{
+    "name":"Enderman",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/2/28/Enderman.png",
+    "beenClicked":false
+},
+{
+    "name":"Spider",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/8/84/Spider.png",
+    "beenClicked":false
+},
+{
+    "name":"Witch",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/e/e6/Witch.png",
+    "beenClicked":false
+},
+{
+    "name":"Villager",
+    "image":"https://vignette.wikia.nocookie.net/minecraft/images/c/cd/New_VillagerB.gif/revision/latest?cb=20190429124124",
+    "beenClicked":false
+},
+{
+    "name":"Golem",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/0/0d/Iron_Golem.png",
+    "beenClicked":false
+},
+{
+    "name":"Drowned",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/5/57/Drowned.png",
+    "beenClicked":false
+},
+{
+    "name":"Slime",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/3/38/Slime.png",
+    "beenClicked":false
+},
+{
+    "name":"Pigman",
+    "image":"https://gamepedia.cursecdn.com/minecraft_gamepedia/0/09/Zombie_Pigman.png",
+    "beenClicked":false
+}
+]
